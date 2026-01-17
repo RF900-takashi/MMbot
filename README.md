@@ -1,5 +1,7 @@
 # MMBOT (Team & Spectator Manager)
 
+https://discord.gg/HMdfyDu3EC
+
 MMBOT は、Fortnite や各種内戦を円滑に進めるためのチーム分け・観戦管理ボットです。
 過去の履歴に基づいたバランスの取れたチーム分けと、絵文字（📺）による観戦者除外機能を備えています。
 
@@ -19,4 +21,4 @@ MMBOT は、Fortnite や各種内戦を円滑に進めるためのチーム分�
 ```bash
 npm install
 
-https://discord.gg/HMdfyDu3EC
+
